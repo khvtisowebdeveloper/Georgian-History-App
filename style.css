@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body {
+    position: relative;
+    background-color: rgb(63, 63, 63);
+    font-family: 'Noto Sans Georgian', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-image: url(/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+}
+
+.icon_flag {
+    border-radius: 350px;
+}
+.main{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sec{
+    width: 163px;
+    height: 250px;
+}
+.centurie{
+    border-radius: 10px;
+    border: none;
+    width: 170px;
+    height: 65px;
+    cursor: pointer;
+}
+.wars{
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    width: 170px;
+    height: 65px;
+    cursor: pointer;
+}
+.kings{
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+    width: 170px;
+    height: 65px;
+}
