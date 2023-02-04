@@ -5,6 +5,8 @@
      <author>Khvtiso Zedelashvili</author>
      <name>Georgian History</name>
      <description>Everything about Georgian History</description>
-     <content src="index.html"/>   
+     <content src="index.html"/> 
+     <content src="centurie.html"/>   
+  
      <icon src="icon.png" />
 </widget>    
